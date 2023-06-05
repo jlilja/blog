@@ -5,16 +5,6 @@
     <link>https://jlilja.github.io/blog/</link>
     <description>Recent content on Jonas Lilja</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jun 2023 15:51:02 +0200</lastBuildDate><atom:link href="https://jlilja.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Github Actions Bot Permissions</title>
-      <link>https://jlilja.github.io/blog/posts/github-actions-bot-permissions/</link>
-      <pubDate>Sun, 04 Jun 2023 15:51:02 +0200</pubDate>
-      
-      <guid>https://jlilja.github.io/blog/posts/github-actions-bot-permissions/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://jlilja.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
